@@ -1,8 +1,8 @@
 /**
-* Template Name: Personal - v4.0.1
-* Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Template Name: Niyankhadka - v1.0.0
+* Author: Niyankhadka
+* License: GNU General Public License v2 or later
+* License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 */
 (function() {
   "use strict";
